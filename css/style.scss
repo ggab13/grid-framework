@@ -1,0 +1,80 @@
+$primaryClr: #111111;
+html {
+    line-height: 1.5em;
+}
+
+header {
+    background: lightcoral;
+}
+
+.primary {
+    background-color: $primaryClr;
+}
+
+.container {
+    display: grid;
+}
+
+.box {
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    display: grid;
+    align-content: center;
+}
+
+.one {
+    background-color: red;
+    grid-column: span 6;
+}
+
+.two {
+    background-color: blue;
+    grid-column: span 3;
+}
+
+.three {
+    background-color: green;
+    grid-column: span 2;
+}
+
+.four {
+    background-color: yellow;
+    grid-column: span 12;
+}
+
+.five {
+    background-color: purple;
+}
+
+.six {
+    background-color: rgb(13, 132, 243);
+}
+
+.seven {
+    background-color: gold;
+}
+
+.eight {
+    background-color: green;
+}
+
+.nine {
+    background-color: pink;
+}
+
+.ten {
+    background-color: black;
+}
+
+.eleven {
+    background-color: red;
+}
+
+.twelve {
+    background-color: rgb(22, 63, 245);
+}
