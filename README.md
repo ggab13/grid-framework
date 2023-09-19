@@ -2,9 +2,11 @@
 
 
 ![g-frame1](https://github.com/ggab13/grid-framework/assets/67071512/efedbb80-5c4c-481d-9b6b-5d135ed9b5e6)
-![g-frame2](https://github.com/ggab13/grid-framework/assets/67071512/f700e4a0-c297-4c14-af06-b01fbb847f45)
+<br/>
+\
+\
 
-<br>
+![g-frame2](https://github.com/ggab13/grid-framework/assets/67071512/f700e4a0-c297-4c14-af06-b01fbb847f45)
 
 
 
